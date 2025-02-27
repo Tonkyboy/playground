@@ -1,3 +1,14 @@
+"""
+Create a code example in [Python] with the following:
+- Introduce [a random number] of intentional bugs for me to debug.
+- Keep the code up to [100] lines.
+- Difficulty level out of easy/medium/hard: [easy].
+- About a [random] Programming topic.
+- Include a brief description of what the code is supposed to do.
+- Do not spoil the bugs or provide the solutions
+"""
+
+
 # Description: This program implements a simple task scheduler
 # It allows adding tasks with priorities and deadlines
 # Tasks are sorted by priority and executed if deadline not exceeded
